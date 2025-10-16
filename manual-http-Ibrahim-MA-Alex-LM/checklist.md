@@ -44,7 +44,7 @@
 
 ## Fase 7: Git y Entrega
 - [x] Repositorio Git inicializado y conectado a GitHub.
-- [ ] Rama `m1/http-request-response` creada.
-- [ ] Commits incrementales realizados con mensajes descriptivos.
+- [x] Rama `m1/http-request-response` creada.
+- [x] Commits incrementales realizados con mensajes descriptivos.
 - [ ] Rama subida al repositorio remoto.
 - [ ] Pull Request creado con título y descripción detallada.

@@ -8,7 +8,7 @@ NC='\033[0m' # No Color
 # Contador de errores
 errors=0
 
-# Función para imprimir validaciones
+# Funcion para imprimir validaciones
 check() {
     if [ "$?" -eq 0 ]; then
         echo -e "  ${GREEN}✓${NC} $1"
